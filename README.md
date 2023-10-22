@@ -34,7 +34,7 @@ To set up and enjoy KokoroZen, use the following steps:
    ​
 
    ```bash
-   git clone git@github.com:waterzaddy/CFG-SoftwareTeam7.git
+   git clone git@github.com:clgonzalez93/KokoroZen.git
    ```
 
 2. Install dependencies
